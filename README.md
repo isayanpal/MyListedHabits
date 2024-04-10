@@ -1,12 +1,10 @@
-# !!!! need to fix this project's UI
-
 
 <h1 align="center">MyListedHabits</h1>
 Project for Hacky New Year Hackathon
 
 ![Screenshot 2023-01-01 130425](https://user-images.githubusercontent.com/102523492/210166471-4aff9e19-57e7-4f21-9140-b3329e67d7d1.png)
 
-## Try out : https://mylistedhabits.co/
+## Try out : https://my-listed-habits.vercel.app/
 Video demo : https://www.youtube.com/watch?v=6Fc705jzY6Y
 
 ## Techstack Used-
